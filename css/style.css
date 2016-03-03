@@ -1,0 +1,18 @@
+table {
+    width: 100%;
+}
+
+.imgCell {
+    text-align: center;
+    padding: 30px;
+}
+
+.imgCell img {
+    max-width: 100%;
+    max-height: 200px;
+}
+
+.imgView {
+    text-align: center;
+    margin: 50px;
+}
